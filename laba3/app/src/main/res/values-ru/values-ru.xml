@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лабораторная Три</string>
+    <string name="take_photo_btn">Сделать фото</string>
+    <string name="input_name">Введите своё имя</string>
+</resources>
